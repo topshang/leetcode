@@ -1,0 +1,2 @@
+# leetcode
+brush the question
